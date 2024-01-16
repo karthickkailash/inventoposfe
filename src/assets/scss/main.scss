@@ -1,0 +1,16 @@
+/****** UTILITY ******/
+@import '~bootstrap/scss/bootstrap';
+@import "utility/variables";
+@import "utility/mixins";
+
+/******* COMMON *******/
+@import "common/typography";
+@import "common/colors"; 
+@import "common/base";
+
+/******* COMPONENTS ******/
+@import "components/button";
+
+/******* PAGES ******/
+
+@import "pages/pos"
